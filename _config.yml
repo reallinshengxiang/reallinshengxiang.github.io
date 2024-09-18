@@ -22,13 +22,13 @@ repository               : "reallinshengxiang/reallinshengxiang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Shengxiang Lin"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "linshengxiang@berkeley.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
