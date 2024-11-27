@@ -18,10 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👦 About Me   
-
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Lin Shengxiang, male, Ningbo, Zhejiang, CPC member, undergraduate student of Chancellor College/Department of Electronics and Information Science, Zhongying College Computer Experimental Class 2201. He was awarded the National Scholarship, Huawei Scholarship, Xi'an Jiaotong University Outstanding Student, Xi'an Jiaotong University Outstanding Communist Youth League Member and other honours. He has won more than ten provincial and above competitions, including the second prize in the national final of the Group Programming Ladder Competition, the third prize in the national final of the Blue Bridge Cup Programming Competition C/C++ University A Group, and the first prize in the Shaanxi Region of the National University Students' Mathematical Modelling Competition. Contributed one paper as co-first author. Participated in the UC Berkeley exchange programme in autumn 2024. Actively engaged in volunteer service activities, serving as the head of the Accounting Group Class 2022 and accumulating nearly 300 hours of work.      
 
 # 📝 Publications   
 - 2024, [Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W-rloDsAAAAJ&citation_for_view=W-rloDsAAAAJ:u5HHmVD_uO8C), Han Zhang\*, <u>Shengxiang Lin*</u>, Xingyi Zhang\*, Yu Wang\*, Yangguang Zhang\*      
