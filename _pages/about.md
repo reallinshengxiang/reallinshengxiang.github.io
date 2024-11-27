@@ -95,4 +95,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 
   [![View on GitHub](https://img.shields.io/github/views/reallinshengxiang/Paranormal-XJTU.svg)](https://github.com/reallinshengxiang/Paranormal-XJTU)
-
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=momodiy.github.io)
