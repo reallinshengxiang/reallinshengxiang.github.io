@@ -60,7 +60,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/ucb.webp"  align = "left" width="2.2%"/>](https://www.berkeley.edu/)  &nbsp; *2024.08 - 2024.12*, **University of California, Berkeley**, *UCBX Concurrent International* . 
 
 # 💻 Projects
-- *2024.09 - present*, Design and Development in Operating Systems (Under the supervision of Prof. Ion Stoica)        
+- *2024.09 - present*, **Design and Development in Operating Systems** (Under the supervision of Prof. Ion Stoica)        
    • Build a shell, similar to the one used by bash on a virtual machine.         
    • Implement an HTTP server that handles HTTP GET requests.         
    • Complete OS development with Pintos           
