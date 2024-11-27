@@ -43,8 +43,8 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards    
-- *2024.11*, Huawei Scholarship     
-- *2024.09*, First Award, China Undergraduate Mathematical Contest in Modeling ( CUMCM ) Shaanxi Region      
+- &nbsp;&nbsp;&nbsp; *2024.11*, Huawei Scholarship     
+- &nbsp;&nbsp;&nbsp; *2024.09*, First Award, China Undergraduate Mathematical Contest in Modeling ( CUMCM ) Shaanxi Region      
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/Third%20Award%2C%20Blue%20Bridge%20Cup%20National%20Finals%20CC%2B%2B%20Programming%20University%20Group%20A.webp"  align = "middle"  width="1.5%"/>](../cv/Personal%20Second%20Prize%2C%20Group%20Programming%20Ladder%20Tourn.pdf)  *2024.06*, Third Award, Blue Bridge Cup National Finals C/C++ Programming University Group A      
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/Outstanding%20League%20members%2C%20Xi%E2%80%99an%20Jiaotong%20University.webp"  align = "middle"  width="2%"/>](../cv/Outstanding%20League%20members%2C%20Xi’an.pdf) *2024.05*, Outstanding League members, Xi’an Jiaotong University          
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/Personal%20Second%20Prize%2C%20Group%20Programming%20Ladder%20Tournament%20(%20GPLT%20)%20National%20Finals.webp"  align = "middle"  width="1.5%"/>](../cv/Personal%20Second%20Prize%2C%20Group%20Programming%20Ladder%20Tourn.pdf) *2024.04*, Personal Second Prize, Group Programming Ladder Tournament ( GPLT ) National Finals    
