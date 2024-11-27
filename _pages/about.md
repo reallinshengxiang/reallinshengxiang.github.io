@@ -94,9 +94,5 @@ My research interest includes neural machine translation and computer vision. I 
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/main/images/L(S%5DO4R%7DZHQPZ%7BKKLLK)0%24C.webp"  align = "left"  width="2%"/>](https://mp.weixin.qq.com/s?__biz=MzI0NzExMjIwMQ==&mid=2650995705&idx=1&sn=f11322a6904706c2d10a835ff678be17&chksm=f3f8126067368330a3d6a068e6cb13aa34e53f350b2c9736e15b85bf2acfcc04f4565ea28831&mpshare=1&scene=23&srcid=1127vDtcrvGgLvMChJ1gLelU&sharer_shareinfo=c4d6f0596af1effeae5af0902dae5ac6&sharer_shareinfo_first=c4d6f0596af1effeae5af0902dae5ac6#rd)&nbsp;*2023.06*, Qian Xuesen College May Fourth Citation Announcement     
 
 
-#![](https://img.shields.io/github/forks/datawhalechina/pumpkin-book?style=social)        
-#![](https://img.shields.io/github/visit/reallinshengxiang/Paranormal-XJTU?style=social )      
-#![](https://img.shields.io/github/stars/reallinshengxiang/Paranormal-XJTU?color=green&style=social)         
-![visitors](https://visitor-badge.glitch.me/badge?page_id=reallinshengxiang.Paranormal-XJTU)
-<img src="https://visitor-badge.glitch.me/badge?page_id=reallinshengxiang.github.io" alt="visitor">          
+  
 
