@@ -68,7 +68,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.9-2024.11*,**Design and Development of Computer Architecture** (Under the supervision of Prof. Dan Garcia)            
   • Creating a playable snake game in C Programming Language.            
   • A simple machine learning algorithm for classifying handwritten digits is implemented using RISC-V assembly code.                 
-  • Design a skeleton CPU which contains basic elements like ALU, Register File, and expand CPU to support more instructions and pipelining.
+  • Design a skeleton CPU which contains basic elements like ALU, Register File, and expand CPU to support more instructions and pipelining.        
   • Implementing and optimizing 2D convolution.                
 - *2024.09-2024.10*, **Simulation Implementation of Internet Protocol** (Under the supervision of Prof. Rob Shakir)             
   • Implement and enhance existing traceroute implementations to handle various errors that may occur in the network.             
