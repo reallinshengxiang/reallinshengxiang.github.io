@@ -63,12 +63,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.09 - present*, **Design and Development in Operating Systems** (Under the supervision of Prof. Ion Stoica)        
    • Build a shell, similar to the one used by bash on a virtual machine.          
    • Implement an HTTP server that handles HTTP GET requests.         
-   • Complete OS development with Pintos           
+   • Complete OS development with Pintos.           
 - *2024.09-present*, **Simulation and prediction of Pacman’s behavior under different scenarios** (Under the supervision of Prof. Pieter Abbeel)         
   • Build general search algorithms and apply them to Pacman scenarios.      
   • Design agents for the classic version of Pacman.Implement both minimax and expectimax search and evaluation function design.          
   • Implement value iteration and Q-learning. Then apply them to a simulated robot controller (Crawler) and Pacman.               
-  • Using Bayesian networks and factoring, the implementation progresses from localizing a single stationary ghost to hunting swarms of multiple moving ghosts with ruthless efficiency               
+  • Using Bayesian networks and factoring, the implementation progresses from localizing a single stationary ghost to hunting swarms of multiple moving ghosts with ruthless efficiency.               
 - *2024.9-2024.11*,**Design and Development of Computer Architecture** (Under the supervision of Prof. Dan Garcia)            
   • Creating a playable snake game in C Programming Language.            
   • A simple machine learning algorithm for classifying handwritten digits is implemented using RISC-V assembly code.                 
