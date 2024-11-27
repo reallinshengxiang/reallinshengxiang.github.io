@@ -61,7 +61,7 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
   • Provide reliability for TCP Protocol, though it won’t include congestion control.            
 - *2024.03 - 2024.04*, **2D Game Design and Development** (Under the supervision of Prof. Kelvin Sung)       
   • A 2D modeling of the campus map was carried out in the form of a team, and the campus terrain was accurately digitized. Based on the profound historical and cultural heritage of the school, creative design and technological implementation were integrated to create a campus themed situational drama 2D interactive game -”Paranormal-XJTU”.
-- *2023.11-2023.12*,**Circuit Simulation Design**(Under the supervision of Prof. Shuhong Wang)       
+- *2023.11-2023.12*,**Circuit Simulation Design** (Under the supervision of Prof. Shuhong Wang)       
   • Design class multisim circuit simulation to enable the application of sinusoidal steady state circuit phase method simulation simulation     
 - *2023.03 - 2023.06*, **Oscillations of a surface-conducting light sphere under a magnetic field** (Under the supervision of Prof. Shengchun Mao)     
   • Using software such as Tracker, MATLAB, COMSOL, etc., abstract modeling, data analysis, and formula fitting of physical phenomena are carried out to obtain the motion formula of a surface conductive light ball in a magnetic field under certain conditions.                
