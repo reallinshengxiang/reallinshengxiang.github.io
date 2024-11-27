@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications   
-- 2024, [Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W-rloDsAAAAJ&citation_for_view=W-rloDsAAAAJ:u5HHmVD_uO8C), Han Zhang, <u>Shengxiang Lin</u>, Xingyi Zhang, Yu Wang, Yangguang Zhang
+- 2024, [Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W-rloDsAAAAJ&citation_for_view=W-rloDsAAAAJ:u5HHmVD_uO8C), Han Zhang*, <u>Shengxiang Lin*</u>, Xingyi Zhang*, Yu Wang*, Yangguang Zhang*
 
 # 🎖 Honors and Awards    
 - &nbsp;&nbsp;&nbsp; *2024.11*, Huawei Scholarship    
