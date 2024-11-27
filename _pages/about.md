@@ -56,8 +56,8 @@ My research interest includes neural machine translation and computer vision. I 
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/Silver%20Award%2C%20The%202022%20ICPC%20Asia%20Xi%E2%80%99an%20Regional%20Contest.webp"  align = "middle"  width="2%"/>](../cv/Silver%20Award%2C%20The%202022%20ICPC%20Asia%20Xi’an%20Regional%20Contest.pdf) *2023.05*,  Silver Award, The 2022 ICPC Asia Xi'an Regional Contest     
 
 # 📖 Educations
--  [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/xjtu.webp"  align = "left"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html) &nsp *2022.09 - present*, **Xi'an Jiaotong University**, *B.E. in Computer Science and Technology (Qian Xuesen Honor Science)* . 
-- [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/ucb.webp"  align = "left" width="2.2%"/>](https://www.berkeley.edu/)  &nsp *2024.08 - 2024.12*, **University of California, Berkeley**, *UCBX Concurrent International* . 
+-  [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/xjtu.webp"  align = "left"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html) &nbsp; *2022.09 - present*, **Xi'an Jiaotong University**, *B.E. in Computer Science and Technology (Qian Xuesen Honor Science)* . 
+- [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/ucb.webp"  align = "left" width="2.2%"/>](https://www.berkeley.edu/)  &nbsp; *2024.08 - 2024.12*, **University of California, Berkeley**, *UCBX Concurrent International* . 
 
 # 💻 Projects
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
