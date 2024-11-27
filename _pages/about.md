@@ -68,7 +68,8 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
   • Complete the group paper ”Study on the Effect of Magnetic Field on the Oscillation of Surface Conductive Light Balls”.                    
 
 # 💬 Social Engagements
-- *2024-present*, Member of **Berkeley TechFounders’Technology Department**      
+- *2024-present*, Member of **Berkeley TechFounders’Technology Department**
+- *2024-present*, Student Member of **China Computer Federation (CCF)**    
 - *2023-present*, Minister of **XJTU Computer Science and Technology Experimental Class-Mentor-Group**    
 - *2023-2024*, Member at **Xi’an Jiaotong University Campus Ambassador Social Practice**      
 - *2023-2024*, Officer at **Qian Xuesen College Academic Tutoring Center Office**      
