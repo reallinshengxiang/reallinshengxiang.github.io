@@ -97,3 +97,4 @@ My research interest includes neural machine translation and computer vision. I 
 ![](https://img.shields.io/github/forks/datawhalechina/pumpkin-book?style=social)
 ![](https://img.shields.io/github/visit/reallinshengxiang/Paranormal-XJTU?style=social )
 ![](https://img.shields.io/github/stars/reallinshengxiang/Paranormal-XJTU?color=green&style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=reallinshengxiang.github.io)
