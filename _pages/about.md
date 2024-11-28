@@ -21,7 +21,7 @@ redirect_from:
 Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qian Xuesen Honor College/Department of Electronics and Information Science, Zhongying College Computer Experimental Class 2201. He was awarded the National Scholarship, Huawei Scholarship, Xi'an Jiaotong University Outstanding Student, Xi'an Jiaotong University Outstanding Communist Youth League Member and other honours. He has won more than ten provincial and above competitions, including the second prize in the national final of the Group Programming Ladder Competition, the third prize in the national final of the Blue Bridge Cup Programming Competition C/C++ University A Group, and the first prize in the Shaanxi Region of the National University Students' Mathematical Modelling Competition. Contributed one paper as co-first author. Participated in the UC Berkeley exchange programme in autumn 2024. Actively engaged in volunteer service activities, serving as the head of the Accounting Group Class 2022 and accumulating nearly 300 hours of work.      
 
 # 📝 Publications   
-- 2024, [Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W-rloDsAAAAJ&citation_for_view=W-rloDsAAAAJ:u5HHmVD_uO8C), Han Zhang\*, <u>Shengxiang Lin*</u>, Xingyi Zhang\*, Yu Wang\*, Yangguang Zhang\*      
+- *2024*, [Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W-rloDsAAAAJ&citation_for_view=W-rloDsAAAAJ:u5HHmVD_uO8C), Han Zhang\*, <u>Shengxiang Lin*</u>, Xingyi Zhang\*, Yu Wang\*, Yangguang Zhang\*      
 
 # 🎖 Honors and Awards    
 - &nbsp;&nbsp;&nbsp; *2024.11*, **Huawei Scholarship**    
@@ -50,7 +50,7 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
   • Design agents for the classic version of Pacman.Implement both minimax and expectimax search and evaluation function design.          
   • Implement value iteration and Q-learning. Then apply them to a simulated robot controller (Crawler) and Pacman.               
   • Using Bayesian networks and factoring, the implementation progresses from localizing a single stationary ghost to hunting swarms of multiple moving ghosts with ruthless efficiency.               
-- *2024.9-2024.11*,**Design and Development of Computer Architecture** (Under the supervision of Prof. Dan Garcia)            
+- *2024.9-2024.11*, **Design and Development of Computer Architecture** (Under the supervision of Prof. Dan Garcia)            
   • Creating a playable snake game in C Programming Language.            
   • A simple machine learning algorithm for classifying handwritten digits is implemented using RISC-V assembly code.                 
   • Design a skeleton CPU which contains basic elements like ALU, Register File, and expand CPU to support more instructions and pipelining.        
@@ -61,11 +61,11 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
   • Provide reliability for TCP Protocol, though it won’t include congestion control.            
 - *2024.03 - 2024.04*, **2D Game Design and Development** (Under the supervision of Prof. Kelvin Sung)       
   • A 2D modeling of the campus map was carried out in the form of a team, and the campus terrain was accurately digitized. Based on the profound historical and cultural heritage of the school, creative design and technological implementation were integrated to create a campus themed situational drama 2D interactive game -”Paranormal-XJTU”.
-- *2023.11-2023.12*,**Circuit Simulation Design** (Under the supervision of Prof. Shuhong Wang)       
+- *2023.11-2023.12*, **Circuit Simulation Design** (Under the supervision of Prof. Shuhong Wang)       
   • Design class multisim circuit simulation to enable the application of sinusoidal steady state circuit phase method simulation simulation     
 - *2023.03 - 2023.06*, **Oscillations of a surface-conducting light sphere under a magnetic field** (Under the supervision of Prof. Shengchun Mao)     
   • Using software such as Tracker, MATLAB, COMSOL, etc., abstract modeling, data analysis, and formula fitting of physical phenomena are carried out to obtain the motion formula of a surface conductive light ball in a magnetic field under certain conditions.                
-  • Complete the group paper ”Study on the Effect of Magnetic Field on the Oscillation of Surface Conductive Light Balls”.                    
+  • Complete the group paper *Study on the Effect of Magnetic Field on the Oscillation of Surface Conductive Light Balls*.                    
 
 # 💬 Social Engagements
 - *2024-present*, Member of **Berkeley TechFounders’Technology Department**
