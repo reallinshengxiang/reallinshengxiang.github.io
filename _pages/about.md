@@ -69,12 +69,12 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
   • Complete the group paper *Study on the Effect of Magnetic Field on the Oscillation of Surface Conductive Light Balls*.                    
 
 # 💬 Social Engagements
-- [<img src="https://github.com/reallinshengxiang/reallinshengxiang.github.io/blob/main/images/techfounders.webp"  align = "left"  width="2%"/>](https://techfounders-web.pages.dev/)&nbsp;*2024-present*, Member of **Berkeley TechFounders’Technology Department**
+- [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/main/images/techfounders.webp"  align = "left"  width="2%"/>](https://techfounders-web.pages.dev/)&nbsp;*2024-present*, Member of **Berkeley TechFounders’Technology Department**
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/ccf.webp"  align = "left"  width="2%"/>](https://www.ccf.org.cn/en/)&nbsp;*2024-present*, Student Member of **China Computer Federation (CCF)**    
-- *2023-present*, Minister of **XJTU Computer Science and Technology Experimental Class-Mentor-Group**    
+- [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/%E8%AE%A1%E5%AD%A6%E7%BB%84.webp"  align = "left"  width="2%"/>](https://xue.shinonomelab.net/)&nbsp;*2023-present*, Minister of **XJTU Computer Science and Technology Experimental Class-Mentor-Group**    
 - *2023-2024*, Member at **Xi’an Jiaotong University Campus Ambassador Social Practice**      
-- *2023-2024*, Officer at **Qian Xuesen College Academic Tutoring Center Office**      
-- *2022-2023*, Officer at **Chung Ying College Study Committee** 
+- [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/%E9%92%B1%E9%99%A2%E5%AD%A6%E8%BE%85.webp"  align = "left"  width="2%"/>](https://www.ccf.org.cn/en/)&nbsp;*2023-2024*, Officer at **Qian Xuesen College Academic Tutoring Center Office**      
+- [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/ccf.webp"  align = "left"  width="2%"/>](https://www.ccf.org.cn/en/)&nbsp;*2022-2023*, Officer at **Chung Ying College Study Committee** 
 
 # 🔥 News
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/main/images/L(S%5DO4R%7DZHQPZ%7BKKLLK)0%24C.webp"  align = "left"  width="2%"/>](https://techfounders-web.pages.dev/)&nbsp;*2024.10*, Integrity Shines in My Heart, Promoting Wind and Protecting Party Soul--Telecommunications Department Zhongying College Teachers and Students Joint First Party Branch Integrity Theme Educational Activities
