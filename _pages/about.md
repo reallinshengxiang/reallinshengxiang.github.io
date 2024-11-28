@@ -70,7 +70,7 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
 
 # 💬 Social Engagements
 - [<img src="https://github.com/reallinshengxiang/reallinshengxiang.github.io/blob/main/images/techfounders.webp"  align = "left"  width="2%"/>](https://techfounders-web.pages.dev/)&nbsp;*2024-present*, Member of **Berkeley TechFounders’Technology Department**
-- *2024-present*, Student Member of **China Computer Federation (CCF)**    
+- [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/ccf.webp"  align = "left"  width="2%"/>](https://www.ccf.org.cn/en/)&nbsp;*2024-present*, Student Member of **China Computer Federation (CCF)**    
 - *2023-present*, Minister of **XJTU Computer Science and Technology Experimental Class-Mentor-Group**    
 - *2023-2024*, Member at **Xi’an Jiaotong University Campus Ambassador Social Practice**      
 - *2023-2024*, Officer at **Qian Xuesen College Academic Tutoring Center Office**      
