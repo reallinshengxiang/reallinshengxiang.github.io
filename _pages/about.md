@@ -50,7 +50,8 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
   • Build general search algorithms and apply them to Pacman scenarios.      
   • Design agents for the classic version of Pacman.Implement both minimax and expectimax search and evaluation function design.          
   • Implement value iteration and Q-learning. Then apply them to a simulated robot controller (Crawler) and Pacman.               
-  • Using Bayesian networks and factoring, the implementation progresses from localizing a single stationary ghost to hunting swarms of multiple moving ghosts with ruthless efficiency.               
+  • Using Bayesian networks and factoring, the implementation progresses from localizing a single stationary ghost to hunting swarms of multiple moving ghosts with ruthless efficiency.      
+  • Using Machine Learning for Number Classification, Language Recognition, Convolutional Neural Networks, Attention, Character-GPT, etc.    
 - *2024.9-2024.11*, **Design and Development of Computer Architecture** (Under the supervision of Prof. Dan Garcia)            
   • Creating a playable snake game in C Programming Language.            
   • A simple machine learning algorithm for classifying handwritten digits is implemented using RISC-V assembly code.                 
