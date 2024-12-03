@@ -44,7 +44,7 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
 # 💻 Projects
 - *2024.09 - present*, **Design and Development in Operating Systems** (Under the supervision of Prof. Ion Stoica)        
    • Create a shell similar to the one used by bash on a virtual machine, capable of program execution, path resolution, redirection, piping, signal handling, foreground and background processes, etc.             
-   • Implement an HTTP server that handles HTTP GET requests.
+   • Implement an HTTP server that handles HTTP GET requests.          
    • Implement a fault-tolerant MapReduce system using Rust. Implement a coordinator process that distributes tasks to worker processes. Handle worker failures by implementing heartbeats and task redistribution.    
    • Complete OS development with Pintos, implement modules such as User Programs, Threads, File Systems, etc.           
 - *2024.09-present*, **Simulation and prediction of Pacman’s behavior under different scenarios** (Under the supervision of Prof. Pieter Abbeel)         
