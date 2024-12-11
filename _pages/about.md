@@ -106,3 +106,6 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
   }
 </style>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4&cl=ffffff&w=a"></script>   
+
+
+<a href='https://clustrmaps.com/site/1c358'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4&co=2d78ad&ct=ffffff'/></a>
