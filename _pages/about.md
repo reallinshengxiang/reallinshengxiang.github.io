@@ -17,6 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+<div style="text-align: center;">
+  <div id="clustrmap-container" style="width: 100px; height: 100px; margin: 0 auto;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4"></script>
+  </div>
+</div>
+
 # 👦 About Me   
 **This page is currently being updated, so don't mind if you see some strange content!**           
 Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qian Xuesen Honor College/Department of Electronics and Information Science, Zhongying College Computer Experimental Class 2201. He was awarded the National Scholarship, Huawei Scholarship, Xi'an Jiaotong University Outstanding Student, Xi'an Jiaotong University Outstanding Communist Youth League Member and other honours. He has won more than ten provincial and above competitions, including the second prize in the national final of the Group Programming Ladder Competition, the third prize in the national final of the Blue Bridge Cup Programming Competition C/C++ University A Group, and the first prize in the Shaanxi Region of the National University Students' Mathematical Modelling Competition. Contributed one paper as co-first author. Participated in the UC Berkeley exchange programme in autumn 2024. Actively engaged in volunteer service activities, serving as the head of the Accounting Group Class 2022 and accumulating nearly 300 hours of work.      
@@ -86,6 +93,3 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
 
 
 <a href='https://clustrmaps.com/site/1c358'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=350&t=tt&d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4'/></a>    
-<div id="clustrmap-container" style="width: 350px; height: 350px;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4"></script>
-</div>
