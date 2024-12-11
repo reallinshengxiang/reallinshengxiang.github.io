@@ -87,12 +87,16 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4"></script>    
 
-<style>
-  #clstr_globe {
-    width: 50px;  /* 设置你想要的宽度 */
-    height: 40px; /* 设置你想要的高度 */
-  }
-</style>
+<script type="text/javascript">
+  // 调整 iframe 的大小
+  window.addEventListener('load', function() {
+    var iframe = document.querySelector('iframe');
+    if (iframe) {
+      iframe.style.width = '50px';  // 设置宽度
+      iframe.style.height = '40px'; // 设置高度
+    }
+  });
+</script>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4"></script>     
 
 <style>
