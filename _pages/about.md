@@ -85,31 +85,7 @@ Shengxiang Lin, male, Ningbo, Zhejiang, CPC member, undergraduate student of Qia
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/main/images/L(S%5DO4R%7DZHQPZ%7BKKLLK)0%24C.webp"  align = "left"  width="2%"/>](https://mp.weixin.qq.com/s?__biz=MzI0NzExMjIwMQ==&mid=2650995705&idx=1&sn=f11322a6904706c2d10a835ff678be17&chksm=f3f8126067368330a3d6a068e6cb13aa34e53f350b2c9736e15b85bf2acfcc04f4565ea28831&mpshare=1&scene=23&srcid=1127vDtcrvGgLvMChJ1gLelU&sharer_shareinfo=c4d6f0596af1effeae5af0902dae5ac6&sharer_shareinfo_first=c4d6f0596af1effeae5af0902dae5ac6#rd)&nbsp;*2023.06*, Qian Xuesen College May Fourth Citation Announcement     
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4"></script>    
-
-<script type="text/javascript">
-  // 调整 iframe 的大小
-  window.addEventListener('load', function() {
-    var iframe = document.querySelector('iframe');
-    if (iframe) {
-      iframe.style.width = '50px';  // 设置宽度
-      iframe.style.height = '40px'; // 设置高度
-    }
-  });
-</script>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4"></script>     
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4&cl=ffffff&w=a"></script>   
-
-
-<a href='https://clustrmaps.com/site/1c358' title='Visit tracker'>
-  <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4&co=2d78ad&ct=ffffff' 
-       width="500" height="400" />
-</a>   
-<a href='https://clustrmaps.com/site/1c358' title='Visit tracker'>
-  <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4' width="50" height="40" />
-</a>   
-<div style="width: 50px; height: 40px;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4&cl=ffffff&w=a"></script>
+<a href='https://clustrmaps.com/site/1c358'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=350&t=tt&d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4'/></a>    
+<div id="clustrmap-container" style="width: 350px; height: 350px;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4"></script>
 </div>
