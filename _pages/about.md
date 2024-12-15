@@ -92,14 +92,15 @@ Shengxiang Lin(林圣翔), male, Ningbo, Zhejiang, CPC member, undergraduate stu
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/main/images/L(S%5DO4R%7DZHQPZ%7BKKLLK)0%24C.webp"  align = "left"  width="2%"/>](https://mp.weixin.qq.com/s?__biz=MzI0NzExMjIwMQ==&mid=2650995705&idx=1&sn=f11322a6904706c2d10a835ff678be17&chksm=f3f8126067368330a3d6a068e6cb13aa34e53f350b2c9736e15b85bf2acfcc04f4565ea28831&mpshare=1&scene=23&srcid=1127vDtcrvGgLvMChJ1gLelU&sharer_shareinfo=c4d6f0596af1effeae5af0902dae5ac6&sharer_shareinfo_first=c4d6f0596af1effeae5af0902dae5ac6#rd)&nbsp;*2023.06*, Qian Xuesen College May Fourth Citation Announcement     
 
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <a href='https://clustrmaps.com/site/1c358'  title='Visit tracker'>
     <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=350&t=tt&d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4'/>
   </a>
 </div>    
+-->
+
 <div style="text-align: center;">
     <iframe src="https://www.google.com/maps/d/embed?mid=1W9wW6qwjKooETH9q49C2dbOV7m8E3pQ&ehbc=2E312F" width="700" height="400"></iframe>
 </div>
 
-
-https://cal.com/shengxiang-lin
+[Book an appointment.](https://cal.com/shengxiang-lin)
