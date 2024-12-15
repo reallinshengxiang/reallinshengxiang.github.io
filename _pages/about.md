@@ -96,4 +96,5 @@ Shengxiang Lin(林圣翔), male, Ningbo, Zhejiang, CPC member, undergraduate stu
   <a href='https://clustrmaps.com/site/1c358'  title='Visit tracker'>
     <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=350&t=tt&d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4'/>
   </a>
-</div>
+</div>   
+<iframe src="https://www.google.com/maps/d/embed?mid=1W9wW6qwjKooETH9q49C2dbOV7m8E3pQ&ehbc=2E312F" width="640" height="480"></iframe>
