@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- 
+
 <div style="text-align: center;">
   <div id="clustrmap-container" style="width: 100px; height: 100px; margin: 0 auto;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=56lMcEgyb62-eylf7Dm8DoH9REfGMyekIRssSno47a4"></script>
