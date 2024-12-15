@@ -98,5 +98,8 @@ Shengxiang Lin(林圣翔), male, Ningbo, Zhejiang, CPC member, undergraduate stu
   </a>
 </div>    
 <div style="text-align: center;">
-    <iframe src="https://www.google.com/maps/d/embed?mid=1W9wW6qwjKooETH9q49C2dbOV7m8E3pQ&ehbc=2E312F" width="400" height="300"></iframe>
+    <iframe src="https://www.google.com/maps/d/embed?mid=1W9wW6qwjKooETH9q49C2dbOV7m8E3pQ&ehbc=2E312F" width="700" height="400"></iframe>
 </div>
+
+
+https://cal.com/shengxiang-lin
