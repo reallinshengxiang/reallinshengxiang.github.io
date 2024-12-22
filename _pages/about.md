@@ -24,9 +24,8 @@ redirect_from:
   </div>
 </div>
 
-# 👦 About Me   
-**This page is currently being updated, so don't mind if you see some strange content!**           
-I am an undergraduate student of Qian Xuesen Honor College/Department of Electronics and Information Science, Zhongying College Computer Experimental Class 2201. Participated in the UC Berkeley exchange programme in autumn 2024. I enjoy building tools and infrastructures that optimize business operations. My technical interests include distributed systems, programming languages, and computer vision.
+# 👦 About Me            
+I am an undergraduate student of Qian Xuesen Honor College/Department of Electronics and Information Science, Zhongying College Computer Experimental Class 2201. Participated in the UC Berkeley exchange programme in autumn 2024. I enjoy building tools and infrastructures that optimize business operations. My technical interests include distributed systems, programming languages, and computer vision.   
 I have a 4.06 GPA and have received an A+ in more than 1/3 of my courses.   
 
 # 📝 Publications   
