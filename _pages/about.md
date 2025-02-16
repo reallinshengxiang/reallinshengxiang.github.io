@@ -49,12 +49,12 @@ I have a 4.06 GPA and have received an A+ in more than 1/3 of my courses.
 - [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/ucb.webp"  align = "left" width="2.2%"/>](https://www.berkeley.edu/)  &nbsp; *2024.08 - 2024.12*, **University of California, Berkeley**, *UCBX Concurrent International* . 
 
 # 💻 Projects
-- *2024.09 - present*, **Design and Development in Operating Systems** (Under the supervision of Prof. Ion Stoica)        
+- *2024.09 - 2024.12*, **Design and Development in Operating Systems** (Under the supervision of Prof. Ion Stoica)        
    • Create a shell similar to the one used by bash on a virtual machine, capable of program execution, path resolution, redirection, piping, signal handling, foreground and background processes, etc.             
    • Implement an HTTP server that handles HTTP GET requests.          
    • Implement a fault-tolerant MapReduce system using Rust. Tasks are assigned to worker processes through a coordinator process. Handle worker failures by implementing heartbeats and task redistribution.      
    • Complete OS development with Pintos, implement modules such as User Programs, Threads, File Systems, etc.           
-- *2024.09-present*, **Simulation and prediction of Pacman’s behavior under different scenarios** (Under the supervision of Prof. Pieter Abbeel)         
+- *2024.09-2024.12*, **Simulation and prediction of Pacman’s behavior under different scenarios** (Under the supervision of Prof. Pieter Abbeel)         
   • Build general search algorithms and apply them to Pacman scenarios.      
   • Design agents for the classic version of Pacman.Implement both minimax and expectimax search and evaluation function design.          
   • Implement value iteration and Q-learning. Then apply them to a simulated robot controller (Crawler) and Pacman.               
